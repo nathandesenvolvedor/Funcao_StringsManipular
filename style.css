@@ -1,0 +1,44 @@
+body {
+    margin: 40px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(204, 204, 204);
+}
+
+.info_principal {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-self: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.input_principal {
+    width: 350px;
+    margin-bottom: 40px;
+    font-size: 18px;
+    color: blue;
+}
+
+.caixa_info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 50px;
+}
+
+.inputs_global {
+    margin-bottom: 40px;
+    font-size: 17px;
+    text-align: center;
+    width: 200px;
+    color: blue;
+}
+
+.submit {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    padding: 5px 8px;
+}
